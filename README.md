@@ -1,4 +1,4 @@
-# AI Work Reporter
+# AI Work Report
 
 ⚠️ Warning: This tool is still in its early stages of development, and the basic reporting functionality is not yet operational.
 
